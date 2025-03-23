@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 🎓 Civil Engineering Graduate from **Sharif University of Technology**  
-💻 Passionate about **Backend Development, Data Science, Engineering Software, Machine Learning, Risk Analysis, and Probability Modeling**  
+💻 Passionate about **Backend Development, Data Science, Engineering Software, Machine Learning, Risk Analysis, Probability Modeling, Network and Security**  
 
 ## 🛠️ Tech Stack  
 
