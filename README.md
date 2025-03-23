@@ -31,15 +31,17 @@
 ![SAP2000](https://img.shields.io/badge/SAP2000-0082C9?style=for-the-badge)  
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=farzamasadian&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=farzamasadian&theme=dark&hide_border=true)
+
 ![Your GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farzamasadian&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farzamasadian&layout=compact&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzamasadian&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies:
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=farzamasadian&theme=darkhub&column=7)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=farzamasadian&theme=darkhub&column=7)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
 
 
 ---
