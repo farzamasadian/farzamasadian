@@ -35,7 +35,7 @@
 
 ![Your GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farzamasadian&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzamasadian&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzamasadian&theme=dark&hide_border=true"/>
 
 ---
 
