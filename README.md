@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/farzam-asadian-5b558b1b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:farzamasadian@icloud.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-I'm Farzam, a Civil Engineering graduate from **Sharif University of Technology** with a passion for building robust and intelligent systems. My expertise lies at the intersection of traditional engineering and modern software development, with a focus on **Backend Development, Data Science, and Machine Learning**.
+I'm Farzam, a Civil Engineering graduate from **Sharif University of Technology** with a passion for building robust and intelligent systems. My expertise lies at the intersection of traditional engineering and modern software development, with a focus on **Backend Development, Data Science, Risk, Relaibility, Resilience, Safety and Machine Learning**.
 
 I enjoy tackling complex problems, whether it's designing resilient infrastructure or developing predictive models. I'm driven by a desire to apply my skills in probability, risk analysis, and software engineering to create innovative and impactful solutions.
 
@@ -31,6 +31,8 @@ My toolbox includes a diverse set of technologies across different domains:
 #### **🚀 Backend & Frameworks**
 <p>
   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+  <a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=databricks&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
