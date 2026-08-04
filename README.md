@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzam-asadian-5b558b1b9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farzamasadian@icloud.com)
 
-I'm a Civil Engineering graduate from **Sharif University of Technology** transitioning into software engineering. My work focuses on designing intelligent, reliable, and data-driven systems by combining **Backend Development, Enterprise Architecture, Business Intelligence, Business Process Management, and Artificial Intelligence**.
+I'm a Civil Engineering graduate from **Sharif University of Technology** transitionined into IT. My work focuses on designing intelligent, reliable, and data-driven systems by combining **Backend Development, Enterprise Architecture, Business Intelligence, Business Process Management, Risk Analysis and Artificial Intelligence**.
 
 I enjoy solving complex engineering problems, whether through scalable software, data analytics, enterprise system design, or machine learning. I'm particularly interested in bridging the gap between business strategy and technology using enterprise architecture, process modeling, and intelligent decision support systems.
 
